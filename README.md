@@ -3,7 +3,7 @@
 
 <h3 align="center"> 💻 &nbsp; I am a software engineer, chess enthusiast, and video game completionist</h3>
 
-📚 Computer Science & Business new grad from the University of British Columbia
+📚 New grad from the [University of British Columbia](https://www.ubc.ca/)
 
 🌱 Currently reading [Designing Data Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/) by Martin Kleppmann
 
