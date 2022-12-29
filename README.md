@@ -3,7 +3,7 @@
 
 <h3 align="center"> 💻 &nbsp; I am a software engineer, chess enthusiast, and video game completionist</h3>
 
-📚 New grad from the [University of British Columbia](https://www.ubc.ca/)
+📚 Graduated from the [University of British Columbia](https://www.ubc.ca/)
 
 :coffee: Previously interned at [Amazon](https://www.amazon.com/), [Teradici](https://www.teradici.com/), and [Canalyst](https://canalyst.com/)
 
