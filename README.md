@@ -1,7 +1,7 @@
 <h2 align="center"> Hi there, I'm Miguel 👋 </h3>
 <h3 align="center"> (he/him/his) </h3>
 
-<h3 align="center"> 💻 &nbsp; I am a software engineer, chess enthusiast, and video game completionist</h3>
+<h3 align="center"> 💻 &nbsp; I am a software engineer, tetris enthusiast, and video game completionist</h3>
 
 📚 Graduated from the [University of British Columbia](https://www.ubc.ca/)
 
